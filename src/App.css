@@ -1,0 +1,5 @@
+.Card {
+  display: grid;
+  grid-template-columns: repeat(4, fr);
+  gap: 1 rem;
+}
